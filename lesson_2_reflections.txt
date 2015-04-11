@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 	Merging two branches combines the commit history from each branch into a single new branch. It 
 	automatically compares files and determines what the final file output should be based on the
 	additions and deletions made in each branch's commit history.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Pro: automatically merging means that you don't have to go through each file on your own
+	Con: automatically merging may overwrite something you don't want
