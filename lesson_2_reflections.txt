@@ -17,3 +17,8 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 	You can easily see how development has progressed in several areas, and what changes may need
 	to be merged back into master.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging two branches combines the commit history from each branch into a single new branch. It 
+	automatically compares files and determines what the final file output should be based on the
+	additions and deletions made in each branch's commit history.
