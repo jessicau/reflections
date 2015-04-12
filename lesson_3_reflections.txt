@@ -14,3 +14,6 @@ Describe the differences between forks, clones, and branches. When would you use
 		playing around with a project locally
 	branches: a different version of a project in the same repository. useful if you're testing a 
 		new feature, experimenting, or wanting to track a different version
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	So you can compare any changes and determine if it's prudent to commit and push any changes.
